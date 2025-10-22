@@ -7,4 +7,4 @@ Esse repositório armazena o material do curso de **Fundamentos de Modelagem** d
 
 Essas notas de aula podem ser compartilhadas nos termos da licença Creative Commons BY-NC-ND 3.0, com propósitos exclusivamente educacionais.
 
-<img src="logo/CC-BY-NC-ND-30.png" width="20%">
+<img src="logo/CC-BY-NC-ND.png" width="20%">
